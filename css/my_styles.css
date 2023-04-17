@@ -38,3 +38,7 @@ a {
 .social-icons .social-icon:hover {
     background-color: var(--bs-secondary);
 }
+
+.list-inline-item:hover {
+    background-color: var(--bs-secondary);
+}
