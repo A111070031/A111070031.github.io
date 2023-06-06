@@ -47,7 +47,3 @@ table, td {
     border: 1px solid black;
     border-collapse: collapse;
 }
-
-.other-icons .other-icon:hover {
-    background-color:#0b00a6 (--bs-secondary);
-}
